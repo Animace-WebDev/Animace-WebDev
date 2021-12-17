@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on bootcamp 
 - 📫 Honestly, the best way to reach out ot me is probably via a Direct Message on Linkedin! Feel free to email me as well, if it suits you well. Linkedin is one way to get a immediate hold. 
      
-     I'll chat about technology, playing blues on guitar, or really whatever you want! I enjoy sharing experiences, but I enjoy hearing other's personal journeys and opinions more. https://www.linkedin.com/in/animesh-kashyap-546900200/  
+     I'll chat about technology, playing blues on guitar, or really whatever you want! I enjoy sharing experiences, but I enjoy hearing other's personal journeys and opinions more. 
 
 <!---
 Animace-WebDev/Animace-WebDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
